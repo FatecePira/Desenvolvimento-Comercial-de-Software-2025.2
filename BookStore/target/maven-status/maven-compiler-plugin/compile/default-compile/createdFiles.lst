@@ -1,0 +1,16 @@
+com\phlu\bookstore\model\Cliente.class
+com\phlu\bookstore\model\CarrinhoDeCompras.class
+com\phlu\bookstore\service\UsuarioService.class
+com\phlu\bookstore\DatabaseConnection.class
+com\phlu\bookstore\dao\UsuarioDAO.class
+com\phlu\bookstore\dao\CompraDAO.class
+com\phlu\bookstore\service\RelatorioService.class
+com\phlu\bookstore\model\Usuario.class
+com\phlu\bookstore\Main.class
+com\phlu\bookstore\model\Livro.class
+com\phlu\bookstore\view\ConsoleView.class
+com\phlu\bookstore\dao\CarrinhoDAO.class
+com\phlu\bookstore\controller\SistemaController.class
+com\phlu\bookstore\model\Compra.class
+com\phlu\bookstore\dao\LivroDAO.class
+com\phlu\bookstore\model\Administrador.class

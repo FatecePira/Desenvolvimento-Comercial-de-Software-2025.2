@@ -1,0 +1,16 @@
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\controller\SistemaController.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\dao\CarrinhoDAO.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\dao\CompraDAO.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\dao\LivroDAO.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\dao\UsuarioDAO.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\DatabaseConnection.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\Main.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\model\Administrador.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\model\CarrinhoDeCompras.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\model\Cliente.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\model\Compra.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\model\Livro.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\model\Usuario.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\service\RelatorioService.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\service\UsuarioService.java
+C:\Users\Phelipe\Documents\NetBeansProjects\BookStore\src\main\java\com\phlu\bookstore\view\ConsoleView.java
